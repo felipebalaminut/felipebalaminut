@@ -2,7 +2,7 @@
 
 ### **`Desenvolvedor Front-End`**
 
-Text
+Meu nome é Felipe Fonseca, sou desenvolvedor Front-End, atualmente estou graduando em Ciência da Computação. Desde cedo busco soluções que otimizem minhas tarefas e acredito que a tecnologia é a maneira mais eficiente de resolver problemas. Pretendo aprofundar minhas habilidades de desenvolvimento e contribuir para projetos que impactem positivamente a vida das pessoas.
 
 <div align="left">
     <a href="https://www.linkedin.com/in/felipebalaminut/" target="_blank">
