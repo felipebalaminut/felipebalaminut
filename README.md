@@ -11,9 +11,9 @@ Busco constantemente evoluir como profissional, aprendendo novas tecnologias e s
     <a href="https://www.linkedin.com/in/felipebalaminut/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
     </a>
-    <a href="#" target="_blank">
+<!--     <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/meu site-CD4847.svg?&style=for-the-badge&logo=gnometerminal&logoColor=white" alt=mysite/>
-    </a>   
+    </a>    -->
 </div> 
 
 <br/>
@@ -43,6 +43,14 @@ Busco constantemente evoluir como profissional, aprendendo novas tecnologias e s
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <img 
     align="left" 
