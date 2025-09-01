@@ -95,6 +95,6 @@ Busco constantemente evoluir como profissional, aprendendo novas tecnologias e s
       align="left" 
       alt="GitHub Stats" 
       height="250" 
-      src="" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebalaminut&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&cache_bust=1" 
   />
 
