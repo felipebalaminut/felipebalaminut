@@ -1,8 +1,8 @@
-# 👨‍💻 Felipe Fonseca
+##  Olá, sou Felipe Fonseca 👋
 
 ### **`Desenvolvedor Front-End`**
 
-Sou Felipe Fonseca, estudante do 4º semestre de Bacharelado em Ciência da Computação. Movido pela curiosidade em tecnologia e inovação, acredito que o conhecimento nessa área é a forma mais eficiente de resolver problemas.
+Atualmente no 4º semestre de Bacharelado em Ciência da Computação. Movido pela curiosidade em tecnologia e inovação, acredito que o conhecimento nessa área é a forma mais eficiente de resolver problemas.
 <br/>
 <br/>
 Busco constantemente evoluir como profissional, aprendendo novas tecnologias e sempre disposto a transformar ideias em soluções eficientes.
