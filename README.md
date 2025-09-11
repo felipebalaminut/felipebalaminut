@@ -62,6 +62,14 @@ Busco constantemente evoluir como profissional, aprendendo novas tecnologias e s
 />
 <img 
     align="left" 
+    alt="TailwindCSS" 
+    title="TailwindCSS"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
     alt="C" 
     title="C"
     width="35px" 
