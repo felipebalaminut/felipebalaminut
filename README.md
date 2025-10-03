@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    Bacharelando em Ciência da Computação, vejo o conhecimento na área como a forma mais eficiente de resolver problemas.
+    Estou bacharelando em Ciência da Computação, vejo o conhecimento na área como uma maneira de solucionar problemas complexos.
 </p>
 
 <p align="center">
