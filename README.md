@@ -20,7 +20,7 @@
     <a href="https://www.linkedin.com/in/felipebalaminut" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%231E77B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
     </a>
-    <a href="#" target="_blank">
+    <a href="https://felipefonseca.vercel.app/pt" target="_blank">
         <img src="https://img.shields.io/badge/meu site-0A0A0B.svg?&style=for-the-badge&logoColor=white" alt=mysite/>
     </a>
 </p>
