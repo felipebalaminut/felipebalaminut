@@ -7,15 +7,11 @@
 </h2>
 
 <p align="center">
-    Bem-vindo ao meu GitHub, aqui você encontrará meus projetos e minhas colaborações
+    Bem-vindo ao meu GitHub, aqui você encontrará meus projetos e minhas colaborações.
 </p>
 
 <p align="center">
-    Estou bacharelando em Ciência da Computação, vejo a tecnologia como uma maneira simples de solucionar problemas complexos.
-</p>
-
-<p align="center">
-    <i>Você pode me encontrar através dessas redes:</i>
+    <i>Você também pode me encontrar através dessas redes:</i>
     <br/><br/>
     <a href="https://www.linkedin.com/in/felipebalaminut" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%231E77B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
